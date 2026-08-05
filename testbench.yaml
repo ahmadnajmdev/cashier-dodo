@@ -1,0 +1,6 @@
+providers:
+  - Ahmadnajmdev\Cashier\Dodo\CashierServiceProvider
+
+env:
+  - DODO_API_KEY="sk_test_local"
+  - DODO_ENVIRONMENT="test_mode"
